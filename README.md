@@ -4,9 +4,7 @@
 
 Visit [this page](https://karkiadit.github.io/3D-Carousel-Voyage/) to see its deployment.
 
-
-https://user-images.githubusercontent.com/68220732/151205316-75471d1b-0836-4280-b362-000fd5996a24.mp4
-
+https://user-images.githubusercontent.com/68220732/151205523-4eba74d4-719b-4ad9-ac33-54203d39a0ad.mp4
 
 
 
